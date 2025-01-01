@@ -1,4 +1,4 @@
-# Time Series Prediction Using Long Short-Term Memory (LSTM) For Stock Price predctioni
+# Time Series Prediction Using Long Short-Term Memory (LSTM) For Stock Price prediction
 
 This repository demonstrates the implementation of a **Long Short-Term Memory (LSTM)** model for time series prediction. LSTM is a type of recurrent neural network (RNN) designed to handle sequential data and learn long-term dependencies, making it ideal for time series forecasting tasks.  
 
